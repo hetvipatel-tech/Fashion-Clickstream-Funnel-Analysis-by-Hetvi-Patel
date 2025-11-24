@@ -77,6 +77,7 @@ Clicks
 
 Spend (Used to calculate CPA)
 
+
 🎨 Dashboard Structure (3 Pages)
 🟦 Page 1: Traffic & Category Insights
 
@@ -145,6 +146,7 @@ Drop-Off Users Gauge
 Bar Chart: CPA by Campaign
 
 Table view: Drop off Count from Add to Cart to Purchase
+
 
 🛠 Tools & Technologies
 
