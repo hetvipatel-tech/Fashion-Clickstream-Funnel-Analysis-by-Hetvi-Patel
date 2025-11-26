@@ -31,6 +31,7 @@ DAX (Measures + Calculated Columns)
 
 Data Cleaning & Transformation in Power Query
 
+Git & GitHub for version control
+
 *Other important details are mentioned in the Project Report*
 
-Git & GitHub for version control
